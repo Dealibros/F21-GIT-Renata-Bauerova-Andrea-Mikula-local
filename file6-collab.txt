@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 hi Andrea
+=======
+hello there, I am changing this
+>>>>>>> 192c0bdef403a3514a035444a8e4d6cebc594f74
